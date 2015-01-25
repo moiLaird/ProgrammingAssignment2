@@ -58,7 +58,7 @@ cacheSolve <- function(x, ...) {
 ## > cacheSolve(x)
 
 ## Retrieve the inverse from the cache
-## itm <- cacheSolve(x)
+## > itm <- cacheSolve(x)
 
 ## Verify that the product of tm and its inverse itm equals identity matrix
-## tm %*% itm
+## > tm %*% itm
